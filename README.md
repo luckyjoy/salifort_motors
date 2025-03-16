@@ -30,4 +30,4 @@ Analyze a dataset to predict employee attrition, providing insights for the HR d
 - **Ethics**: Ensured fairness and avoided bias in the model.
 - **Outcome**: Provided actionable insights to help HR improve retention strategies.
 
-This project will result in both a **high-level summary** for non-technical stakeholders and a **detailed code notebook** showcasing your technical skills.
+This project will result in both a **high-level summary** for non-technical stakeholders and a **detailed code notebook**.
